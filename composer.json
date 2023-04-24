@@ -1,0 +1,15 @@
+{
+    "name": "gailole/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Gailole\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oleg Gailun",
+            "email": "oleg.gailun@yandex.ru"
+        }
+    ],
+    "require": {}
+}
